@@ -25,7 +25,7 @@ From the possible factors listed above, we can hypothesizes as to why they would
 6. **Family Status**: By this we mean whether the applicant has a family. This may affect the type of loan to be requested by an applicant. For instance, an applicant with a family may be more likely to apply for loans that are related to more longer term investments like housing and education, which correspond to loans that either will have correpsonding collateral or result in returns for the applicant that will result in greater abillity to pay. 
 
 ## EDA 
-Amonng the things I found was:
+Among the things I found was:
 1. Postitve relationship between loan amount and number of dependents, which persisted acros property type
 2. That graduate applicants had greater number of dependents and also, as a result, also has greater loan amounts in their application
 3. This gap in loan amounts requested between graduate and non-graduate applicants held across property type
@@ -49,7 +49,7 @@ The process for this project consisted of a sequence of the following steps:
 ## Results/Demo
 The resulting model is characterized by an accuracy 0.82, Precision 0f 0.80 and a Recall of 0.98. We are left with an F1-Score of 0.88
 
-## Challanges 
+## Challenges 
 Most of the greatest challeneges were with the deployment of my model. Though I could get the API working I had diffculty in getting the response I wanted from my requests. After making some changes to my pipelines, the issue then turned to an inability of my api file to find a custom classes created and integrated into the pipeline. 
 
 ## Future Goals

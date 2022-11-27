@@ -1,4 +1,4 @@
-# Mini-project IV
+# Predicting Loan Elgibility
 
 ### [Assignment](assignment.md)
 
